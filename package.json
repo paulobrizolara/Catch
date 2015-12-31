@@ -1,0 +1,15 @@
+{
+  "name": "catch",
+  "version": "1.3.1",
+  "description": "A modern, C++-native, header-only, framework for unit-tests, TDD and BDD",
+  "scripts": {
+  },
+  "directories" : {
+    "include" : "single_include"
+  },
+  "keywords": [
+    "c++", "tests", "TDD", "BDD"
+  ],
+  "author": "Phil Nash",
+  "license": "BSL-1.0"
+}
